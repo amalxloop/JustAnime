@@ -1,7 +1,7 @@
 <p align="center">
   <div align="center">
     <a href="https://justanime.vercel.app">
-      <img alt="JustAnime" src="https://github.com/tejaspanchall/JustAnime/blob/main/public/footer.png" width="220"/>
+      <img alt="JustAnime" src="https://github.com/amalxloop/JustAnime/blob/main/public/footer.png" width="220"/>
     </a>
   </div>
     <h3 align="center">JustAnime - Clean & ad free anime streaming</h3>
