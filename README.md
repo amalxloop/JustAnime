@@ -6,7 +6,7 @@
   </div>
     <h3 align="center">JustAnime - Clean & ad free anime streaming</h3>
     <p align="center">
-  <a href="https://github.com/tejaspanchall/JustAnime">
+  <a href="https://github.com/amalxloop/JustAnime">
       <img src="https://img.shields.io/github/stars/tejaspanchall/JustAnime" alt="Github Stars">
     </a>
       <img src="https://img.shields.io/github/issues/tejaspanchall/JustAnime" alt="Github Issues">
@@ -73,7 +73,7 @@
 ### 2. Run the following code to clone the repository and install all required dependencies
 
 ```bash
-git clone https://github.com/tejaspanchall/JustAnime.git
+git clone https://github.com/amalxloop/JustAnime.git
 cd JustAnime
 npm install # or yarn
 ```
